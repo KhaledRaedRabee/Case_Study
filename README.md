@@ -1,5 +1,5 @@
 # Case_Study
-PowerBI: https://github.com/KhaledRaedRabee/Power-BI/blob/main/project%201.pbix
+PowerBI: https://github.com/KhaledRaedRabee/AmmanStockMarket-.pbix-
 
 ML Project: https://github.com/KhaledRaedRabee/Tweets_Sentiment_Analysis/tree/main
 
